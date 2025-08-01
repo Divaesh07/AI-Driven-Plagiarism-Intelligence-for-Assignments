@@ -47,23 +47,7 @@ Build an AI system that:
    - Style Deviation (Low / Moderate / High)
    - Final Plagiarism Risk (Low / Moderate / High)
 
----
-
-## 💡 Sample Prompt (Structured)
-
-```plaintext
-Instruction:
-Analyze the given student assignment for plagiarism, AI-generation, and instructor style deviation. Return:
-1. Similarity Score
-2. AI Probability
-3. Style Deviation
-4. Final Plagiarism Risk
-
-Input:
-Assignment:
-"The Industrial Revolution changed production by replacing manual labor with machines..."
-
-Instructor Style:
-- Use historical examples
-- Avoid passive voice
-- Be concise and factual
+📎 References
+IBM Watsonx.ai Documentation
+IBM Granite Models
+Prompt Lab Overview
