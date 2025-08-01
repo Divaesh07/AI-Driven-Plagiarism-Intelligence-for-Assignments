@@ -46,8 +46,3 @@ Build an AI system that:
    - AI Probability (0–100%)
    - Style Deviation (Low / Moderate / High)
    - Final Plagiarism Risk (Low / Moderate / High)
-
-📎 References
-IBM Watsonx.ai Documentation
-IBM Granite Models
-Prompt Lab Overview
